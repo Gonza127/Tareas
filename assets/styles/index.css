@@ -1,0 +1,9 @@
+strong {
+    color:blue;
+    background-color:yellow ;
+    
+}
+
+ol > li  {
+    background-color: blueviolet;
+}
